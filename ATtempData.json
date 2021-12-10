@@ -1,0 +1,1004 @@
+[
+  {
+    "Player": "Allen Iverson",
+    "Team": "76ers",
+    "Position": "PG",
+    "Overall": 97
+  },
+  {
+    "Player": "Damian Lillard",
+    "Team": "Blazers",
+    "Position": "PG",
+    "Overall": 92
+  },
+  {
+    "Player": "Oscar Roberson",
+    "Team": "Bucks",
+    "Position": "PG",
+    "Overall": 96
+  },
+  {
+    "Player": "Derrick Rose",
+    "Team": "Bulls",
+    "Position": "PG",
+    "Overall": 95
+  },
+  {
+    "Player": "Mark Price",
+    "Team": "Cavs",
+    "Position": "PG",
+    "Overall": 93
+  },
+  {
+    "Player": "Kyrie Irving",
+    "Team": "Cavs",
+    "Position": "PG",
+    "Overall": 94
+  },
+  {
+    "Player": "Bob Cousy",
+    "Team": "Celtics",
+    "Position": "PG",
+    "Overall": 96
+  },
+  {
+    "Player": "Rajon Rondo",
+    "Team": "Celtics",
+    "Position": "PG",
+    "Overall": 90
+  },
+  {
+    "Player": "Chris Paul",
+    "Team": "Clippers",
+    "Position": "PG",
+    "Overall": 93
+  },
+  {
+    "Player": "Mike Conley",
+    "Team": "Grizzlies",
+    "Position": "PG",
+    "Overall": 88
+  },
+  {
+    "Player": "Lou Hudson",
+    "Team": "Hawks",
+    "Position": "PG",
+    "Overall": 91
+  },
+  {
+    "Player": "Tim Hardaway",
+    "Team": "Heat",
+    "Position": "PG",
+    "Overall": 89
+  },
+  {
+    "Player": "Kemba Walker",
+    "Team": "Hornets",
+    "Position": "PG",
+    "Overall": 89
+  },
+  {
+    "Player": "John Stockton",
+    "Team": "Jazz",
+    "Position": "PG",
+    "Overall": 97
+  },
+  {
+    "Player": "Oscar Roberson",
+    "Team": "Kings",
+    "Position": "PG",
+    "Overall": 98
+  },
+  {
+    "Player": "Tiny Archibald",
+    "Team": "Kings",
+    "Position": "PG",
+    "Overall": 95
+  },
+  {
+    "Player": "Walt Frazier",
+    "Team": "Knicks",
+    "Position": "PG",
+    "Overall": 97
+  },
+  {
+    "Player": "Earl Monroe",
+    "Team": "Knicks",
+    "Position": "PG",
+    "Overall": 89
+  },
+  {
+    "Player": "Magic Johnson",
+    "Team": "Lakers",
+    "Position": "PG",
+    "Overall": 99
+  },
+  {
+    "Player": "Jerry West",
+    "Team": "Lakers",
+    "Position": "PG",
+    "Overall": 97
+  },
+  {
+    "Player": "Penny Hardaway",
+    "Team": "Magic",
+    "Position": "PG",
+    "Overall": 95
+  },
+  {
+    "Player": "Derek Harper",
+    "Team": "Mavs",
+    "Position": "PG",
+    "Overall": 89
+  },
+  {
+    "Player": "Jason Terry",
+    "Team": "Mavs",
+    "Position": "PG",
+    "Overall": 85
+  },
+  {
+    "Player": "Jason Kidd",
+    "Team": "Nets",
+    "Position": "PG",
+    "Overall": 96
+  },
+  {
+    "Player": "Fat Lever",
+    "Team": "Nuggets",
+    "Position": "PG",
+    "Overall": 92
+  },
+  {
+    "Player": "Freddie Lewis",
+    "Team": "Pacers",
+    "Position": "PG",
+    "Overall": 89
+  },
+  {
+    "Player": "Chris Paul",
+    "Team": "Pelicans",
+    "Position": "PG",
+    "Overall": 97
+  },
+  {
+    "Player": "Baron Davis",
+    "Team": "Pelicans",
+    "Position": "PG",
+    "Overall": 92
+  },
+  {
+    "Player": "Isiah Thomas",
+    "Team": "Pistons",
+    "Position": "PG",
+    "Overall": 96
+  },
+  {
+    "Player": "Kyle Lowry",
+    "Team": "Raptors",
+    "Position": "PG",
+    "Overall": 89
+  },
+  {
+    "Player": "James Harden",
+    "Team": "Rockets",
+    "Position": "PG",
+    "Overall": 96
+  },
+  {
+    "Player": "Calvin Murphy",
+    "Team": "Rockets",
+    "Position": "PG",
+    "Overall": 92
+  },
+  {
+    "Player": "Tony Parker",
+    "Team": "Spurs",
+    "Position": "PG",
+    "Overall": 94
+  },
+  {
+    "Player": "Steve Nash",
+    "Team": "Suns",
+    "Position": "PG",
+    "Overall": 97
+  },
+  {
+    "Player": "Kevin Johnson",
+    "Team": "Suns",
+    "Position": "PG",
+    "Overall": 90
+  },
+  {
+    "Player": "Russell Westbrook",
+    "Team": "Thunder",
+    "Position": "PG",
+    "Overall": 95
+  },
+  {
+    "Player": "Gary Payton",
+    "Team": "Thunder",
+    "Position": "PG",
+    "Overall": 95
+  },
+  {
+    "Player": "Ricky Rubio",
+    "Team": "Timberwolves",
+    "Position": "PG",
+    "Overall": 85
+  },
+  {
+    "Player": "Stephen Curry",
+    "Team": "Warriors",
+    "Position": "PG",
+    "Overall": 97
+  },
+  {
+    "Player": "John Wall",
+    "Team": "Wizards",
+    "Position": "PG",
+    "Overall": 90
+  },
+  {
+    "Player": "Clyde Drexler",
+    "Team": "Blazers",
+    "Position": "SG",
+    "Overall": 97
+  },
+  {
+    "Player": "Brandon Roy",
+    "Team": "Blazers",
+    "Position": "SG",
+    "Overall": 92
+  },
+  {
+    "Player": "Sidney Moncreif",
+    "Team": "Bucks",
+    "Position": "SG",
+    "Overall": 93
+  },
+  {
+    "Player": "Ray Allen",
+    "Team": "Bucks",
+    "Position": "SG",
+    "Overall": 91
+  },
+  {
+    "Player": "Michael Jordan",
+    "Team": "Bulls",
+    "Position": "SG",
+    "Overall": 99
+  },
+  {
+    "Player": "Jimmy Butler",
+    "Team": "Bulls",
+    "Position": "SG",
+    "Overall": 91
+  },
+  {
+    "Player": "John Havlicek",
+    "Team": "Celtics",
+    "Position": "SG",
+    "Overall": 96
+  },
+  {
+    "Player": "Tony Allen",
+    "Team": "Grizzlies",
+    "Position": "SG",
+    "Overall": 85
+  },
+  {
+    "Player": "Cliff Hagan",
+    "Team": "Hawks",
+    "Position": "SG",
+    "Overall": 91
+  },
+  {
+    "Player": "Dwayne Wade",
+    "Team": "Heat",
+    "Position": "SG",
+    "Overall": 97
+  },
+  {
+    "Player": "Dell Curry",
+    "Team": "Hornets",
+    "Position": "SG",
+    "Overall": 83
+  },
+  {
+    "Player": "Pete Maravich",
+    "Team": "Jazz",
+    "Position": "SG",
+    "Overall": 95
+  },
+  {
+    "Player": "Kobe Bryant",
+    "Team": "Lakers",
+    "Position": "SG",
+    "Overall": 98
+  },
+  {
+    "Player": "Tracy McGrady",
+    "Team": "Magic",
+    "Position": "SG",
+    "Overall": 95
+  },
+  {
+    "Player": "Vince Carter",
+    "Team": "Nets",
+    "Position": "SG",
+    "Overall": 89
+  },
+  {
+    "Player": "David Thompson",
+    "Team": "Nuggets",
+    "Position": "SG",
+    "Overall": 95
+  },
+  {
+    "Player": "Danny Granger",
+    "Team": "Pacers",
+    "Position": "SG",
+    "Overall": 88
+  },
+  {
+    "Player": "Joe Dumars",
+    "Team": "Pistons",
+    "Position": "SG",
+    "Overall": 93
+  },
+  {
+    "Player": "Demar Derozen",
+    "Team": "Raptors",
+    "Position": "SG",
+    "Overall": 89
+  },
+  {
+    "Player": "Vince Carter",
+    "Team": "Raptors",
+    "Position": "SG",
+    "Overall": 96
+  },
+  {
+    "Player": "Tracy McGrady",
+    "Team": "Rockets",
+    "Position": "SG",
+    "Overall": 92
+  },
+  {
+    "Player": "Clyde Drexler",
+    "Team": "Rockets",
+    "Position": "SG",
+    "Overall": 93
+  },
+  {
+    "Player": "Manu Ginobili",
+    "Team": "Spurs",
+    "Position": "SG",
+    "Overall": 90
+  },
+  {
+    "Player": "George Gervin",
+    "Team": "Spurs",
+    "Position": "SG",
+    "Overall": 95
+  },
+  {
+    "Player": "Walter Davis",
+    "Team": "Suns",
+    "Position": "SG",
+    "Overall": 90
+  },
+  {
+    "Player": "Dick Van Arsdale",
+    "Team": "Suns",
+    "Position": "SG",
+    "Overall": 88
+  },
+  {
+    "Player": "Ray Allen",
+    "Team": "Thunder",
+    "Position": "SG",
+    "Overall": 95
+  },
+  {
+    "Player": "Sam Cassell",
+    "Team": "Timberwolves",
+    "Position": "SG",
+    "Overall": 88
+  },
+  {
+    "Player": "Klay Thompson",
+    "Team": "Warriors",
+    "Position": "SG",
+    "Overall": 91
+  },
+  {
+    "Player": "Chris Mullin",
+    "Team": "Warriors",
+    "Position": "SG",
+    "Overall": 94
+  },
+  {
+    "Player": "Bradley Beal",
+    "Team": "Wizards",
+    "Position": "SG",
+    "Overall": 87
+  },
+  {
+    "Player": "Gilbert Arenas",
+    "Team": "Wizards",
+    "Position": "SG",
+    "Overall": 93
+  },
+  {
+    "Player": "Julius Erving",
+    "Team": "76ers",
+    "Position": "SF",
+    "Overall": 94
+  },
+  {
+    "Player": "Andre Iguadola",
+    "Team": "76ers",
+    "Position": "SF",
+    "Overall": 88
+  },
+  {
+    "Player": "Giannis Antetokounmpo",
+    "Team": "Bucks",
+    "Position": "SF",
+    "Overall": 96
+  },
+  {
+    "Player": "Michael Johnson",
+    "Team": "Bucks",
+    "Position": "SF",
+    "Overall": 94
+  },
+  {
+    "Player": "Scottie Pippen",
+    "Team": "Bulls",
+    "Position": "SF",
+    "Overall": 97
+  },
+  {
+    "Player": "Lebron James",
+    "Team": "Cavs",
+    "Position": "SF",
+    "Overall": 99
+  },
+  {
+    "Player": "Paul Pierce",
+    "Team": "Celtics",
+    "Position": "SF",
+    "Overall": 94
+  },
+  {
+    "Player": "Larry Bird",
+    "Team": "Celtics",
+    "Position": "SF",
+    "Overall": 98
+  },
+  {
+    "Player": "Kawhi Leonard",
+    "Team": "Clippers",
+    "Position": "SF",
+    "Overall": 95
+  },
+  {
+    "Player": "Shareef Abdur-Rehim",
+    "Team": "Grizzlies",
+    "Position": "SF",
+    "Overall": 86
+  },
+  {
+    "Player": "Dominique Wilkins",
+    "Team": "Hawks",
+    "Position": "SF",
+    "Overall": 95
+  },
+  {
+    "Player": "Lebron James",
+    "Team": "Heat",
+    "Position": "SF",
+    "Overall": 99
+  },
+  {
+    "Player": "Glen Rice",
+    "Team": "Hornets",
+    "Position": "SF",
+    "Overall": 90
+  },
+  {
+    "Player": "Adrian Dantley",
+    "Team": "Jazz",
+    "Position": "SF",
+    "Overall": 92
+  },
+  {
+    "Player": "Peja Stojakovic",
+    "Team": "Kings",
+    "Position": "SF",
+    "Overall": 88
+  },
+  {
+    "Player": "Carmelo Anthony",
+    "Team": "Knicks",
+    "Position": "SF",
+    "Overall": 92
+  },
+  {
+    "Player": "Elgin Baylor",
+    "Team": "Lakers",
+    "Position": "SF",
+    "Overall": 96
+  },
+  {
+    "Player": "Lebron James",
+    "Team": "Lakers",
+    "Position": "SF",
+    "Overall": 96
+  },
+  {
+    "Player": "Grant Hill",
+    "Team": "Magic",
+    "Position": "SF",
+    "Overall": 86
+  },
+  {
+    "Player": "Rolando Blackman",
+    "Team": "Mavs",
+    "Position": "SF",
+    "Overall": 88
+  },
+  {
+    "Player": "Mark Aguirre",
+    "Team": "Mavs",
+    "Position": "SF",
+    "Overall": 88
+  },
+  {
+    "Player": "Julius Erving",
+    "Team": "Nets",
+    "Position": "SF",
+    "Overall": 97
+  },
+  {
+    "Player": "Alex English",
+    "Team": "Nuggets",
+    "Position": "SF",
+    "Overall": 93
+  },
+  {
+    "Player": "Carmelo Anthony",
+    "Team": "Nuggets",
+    "Position": "SF",
+    "Overall": 95
+  },
+  {
+    "Player": "Paul George",
+    "Team": "Pacers",
+    "Position": "SF",
+    "Overall": 93
+  },
+  {
+    "Player": "Jamal Mashburn",
+    "Team": "Pelicans",
+    "Position": "SF",
+    "Overall": 89
+  },
+  {
+    "Player": "Grant Hill",
+    "Team": "Pistons",
+    "Position": "SF",
+    "Overall": 93
+  },
+  {
+    "Player": "Kawhi Leonard",
+    "Team": "Raptors",
+    "Position": "SF",
+    "Overall": 97
+  },
+  {
+    "Player": "Kawhi Leonard",
+    "Team": "Spurs",
+    "Position": "SF",
+    "Overall": 94
+  },
+  {
+    "Player": "Shawn Marion",
+    "Team": "Suns",
+    "Position": "SF",
+    "Overall": 91
+  },
+  {
+    "Player": "Kevin Durant",
+    "Team": "Thunder",
+    "Position": "SF",
+    "Overall": 97
+  },
+  {
+    "Player": "Paul George",
+    "Team": "Thunder",
+    "Position": "SF",
+    "Overall": 92
+  },
+  {
+    "Player": "Kevin Durant",
+    "Team": "Warriors",
+    "Position": "SF",
+    "Overall": 96
+  },
+  {
+    "Player": "Caron Butler",
+    "Team": "Wizards",
+    "Position": "SF",
+    "Overall": 88
+  },
+  {
+    "Player": "LaMarcus Aldridge",
+    "Team": "Blazers",
+    "Position": "PF",
+    "Overall": 89
+  },
+  {
+    "Player": "Dennis Rodman",
+    "Team": "Bulls",
+    "Position": "PF",
+    "Overall": 93
+  },
+  {
+    "Player": "Larry Nance",
+    "Team": "Cavs",
+    "Position": "PF",
+    "Overall": 88
+  },
+  {
+    "Player": "Kevin McHale",
+    "Team": "Celtics",
+    "Position": "PF",
+    "Overall": 95
+  },
+  {
+    "Player": "Kevin Garnett",
+    "Team": "Celtics",
+    "Position": "PF",
+    "Overall": 92
+  },
+  {
+    "Player": "Blake Griffin",
+    "Team": "Clippers",
+    "Position": "PF",
+    "Overall": 90
+  },
+  {
+    "Player": "Elton Brand",
+    "Team": "Clippers",
+    "Position": "PF",
+    "Overall": 90
+  },
+  {
+    "Player": "Zach Randolph",
+    "Team": "Grizzlies",
+    "Position": "PF",
+    "Overall": 89
+  },
+  {
+    "Player": "Bob Pettit",
+    "Team": "Hawks",
+    "Position": "PF",
+    "Overall": 95
+  },
+  {
+    "Player": "Chris Bosh",
+    "Team": "Heat",
+    "Position": "PF",
+    "Overall": 88
+  },
+  {
+    "Player": "Larry Johnson",
+    "Team": "Hornets",
+    "Position": "PF",
+    "Overall": 88
+  },
+  {
+    "Player": "Karl Malone",
+    "Team": "Jazz",
+    "Position": "PF",
+    "Overall": 97
+  },
+  {
+    "Player": "Chris Webber",
+    "Team": "Kings",
+    "Position": "PF",
+    "Overall": 93
+  },
+  {
+    "Player": "Willis Reed",
+    "Team": "Knicks",
+    "Position": "PF",
+    "Overall": 94
+  },
+  {
+    "Player": "Buck Williams",
+    "Team": "Nets",
+    "Position": "PF",
+    "Overall": 88
+  },
+  {
+    "Player": "Jermaine O'Neal",
+    "Team": "Pacers",
+    "Position": "PF",
+    "Overall": 91
+  },
+  {
+    "Player": "David West",
+    "Team": "Pelicans",
+    "Position": "PF",
+    "Overall": 88
+  },
+  {
+    "Player": "Chris Bosh",
+    "Team": "Raptors",
+    "Position": "PF",
+    "Overall": 90
+  },
+  {
+    "Player": "Tim Duncan",
+    "Team": "Spurs",
+    "Position": "PF",
+    "Overall": 98
+  },
+  {
+    "Player": "Amar'e Stoudemire",
+    "Team": "Suns",
+    "Position": "PF",
+    "Overall": 92
+  },
+  {
+    "Player": "Shawn Kemp",
+    "Team": "Thunder",
+    "Position": "PF",
+    "Overall": 90
+  },
+  {
+    "Player": "Kevin Garnett",
+    "Team": "Timberwolves",
+    "Position": "PF",
+    "Overall": 98
+  },
+  {
+    "Player": "Kevin Love",
+    "Team": "Timberwolves",
+    "Position": "PF",
+    "Overall": 92
+  },
+  {
+    "Player": "Draymond Green",
+    "Team": "Warriors",
+    "Position": "PF",
+    "Overall": 89
+  },
+  {
+    "Player": "Elvin Hayes",
+    "Team": "Wizards",
+    "Position": "PF",
+    "Overall": 96
+  },
+  {
+    "Player": "Moses Malone",
+    "Team": "76ers",
+    "Position": "C",
+    "Overall": 97
+  },
+  {
+    "Player": "Wilt Chamberlin",
+    "Team": "76ers",
+    "Position": "C",
+    "Overall": 93
+  },
+  {
+    "Player": "Bill Walton",
+    "Team": "Blazers",
+    "Position": "C",
+    "Overall": 95
+  },
+  {
+    "Player": "Kareem Abdul-Jabbar",
+    "Team": "Bucks",
+    "Position": "C",
+    "Overall": 99
+  },
+  {
+    "Player": "Artis Gilmore",
+    "Team": "Bulls",
+    "Position": "C",
+    "Overall": 93
+  },
+  {
+    "Player": "Brad Daugherty",
+    "Team": "Cavs",
+    "Position": "C",
+    "Overall": 89
+  },
+  {
+    "Player": "Zydrunas Ilgauskas",
+    "Team": "Cavs",
+    "Position": "C",
+    "Overall": 88
+  },
+  {
+    "Player": "Bill Russell",
+    "Team": "Celtics",
+    "Position": "C",
+    "Overall": 98
+  },
+  {
+    "Player": "Bob McAdoo",
+    "Team": "Clippers",
+    "Position": "C",
+    "Overall": 94
+  },
+  {
+    "Player": "Marc Gasol",
+    "Team": "Grizzlies",
+    "Position": "C",
+    "Overall": 93
+  },
+  {
+    "Player": "Al Horford",
+    "Team": "Hawks",
+    "Position": "C",
+    "Overall": 92
+  },
+  {
+    "Player": "Alonzo Mourning",
+    "Team": "Heat",
+    "Position": "C",
+    "Overall": 94
+  },
+  {
+    "Player": "Shaquille O'Neal",
+    "Team": "Heat",
+    "Position": "C",
+    "Overall": 89
+  },
+  {
+    "Player": "Alonzo Morning",
+    "Team": "Hornets",
+    "Position": "C",
+    "Overall": 89
+  },
+  {
+    "Player": "Rudy Gobert",
+    "Team": "Jazz",
+    "Position": "C",
+    "Overall": 88
+  },
+  {
+    "Player": "Mark Eaton",
+    "Team": "Jazz",
+    "Position": "C",
+    "Overall": 89
+  },
+  {
+    "Player": "Jerry Lucas",
+    "Team": "Kings",
+    "Position": "C",
+    "Overall": 95
+  },
+  {
+    "Player": "DeMarcus Cousins",
+    "Team": "Kings",
+    "Position": "C",
+    "Overall": 90
+  },
+  {
+    "Player": "Patrick Ewing",
+    "Team": "Knicks",
+    "Position": "C",
+    "Overall": 95
+  },
+  {
+    "Player": "Kareem Abdul-Jabbar",
+    "Team": "Lakers",
+    "Position": "C",
+    "Overall": 96
+  },
+  {
+    "Player": "Shaquille O'Neal",
+    "Team": "Lakers",
+    "Position": "C",
+    "Overall": 98
+  },
+  {
+    "Player": "Dwight Howard",
+    "Team": "Magic",
+    "Position": "C",
+    "Overall": 93
+  },
+  {
+    "Player": "Shaquille O'Neal",
+    "Team": "Magic",
+    "Position": "C",
+    "Overall": 93
+  },
+  {
+    "Player": "Dirk Nowitzki",
+    "Team": "Mavs",
+    "Position": "C",
+    "Overall": 98
+  },
+  {
+    "Player": "Brook Lopez",
+    "Team": "Nets",
+    "Position": "C",
+    "Overall": 87
+  },
+  {
+    "Player": "Dikembe Mutombo",
+    "Team": "Nuggets",
+    "Position": "C",
+    "Overall": 90
+  },
+  {
+    "Player": "Niokla Jokic",
+    "Team": "Nuggets",
+    "Position": "C",
+    "Overall": 90
+  },
+  {
+    "Player": "Rik Smits",
+    "Team": "Pacers",
+    "Position": "C",
+    "Overall": 87
+  },
+  {
+    "Player": "Anthony Davis",
+    "Team": "Pelicans",
+    "Position": "C",
+    "Overall": 94
+  },
+  {
+    "Player": "Ben Wallace",
+    "Team": "Pistons",
+    "Position": "C",
+    "Overall": 89
+  },
+  {
+    "Player": "Bob Lanier",
+    "Team": "Pistons",
+    "Position": "C",
+    "Overall": 93
+  },
+  {
+    "Player": "Moses Malone",
+    "Team": "Rockets",
+    "Position": "C",
+    "Overall": 97
+  },
+  {
+    "Player": "Hakeem Olajuwon",
+    "Team": "Rockets",
+    "Position": "C",
+    "Overall": 98
+  },
+  {
+    "Player": "David Robinson",
+    "Team": "Spurs",
+    "Position": "C",
+    "Overall": 96
+  },
+  {
+    "Player": "Karl-Anthony Towns",
+    "Team": "Timberwolves",
+    "Position": "C",
+    "Overall": 89
+  },
+  {
+    "Player": "Wit Chamberlin",
+    "Team": "Warriors",
+    "Position": "C",
+    "Overall": 98
+  }
+]
