@@ -10,6 +10,11 @@
 function RosterData() {
   // var mydata = JSON.parse(data);
   // console.log(mydata);
+  const array = Array(10) // array size is 10
+  				.fill()
+  				.map(() => Math.floor(192 * Math.random())); // numbers from 0-50 (exclusive)
+
+  console.log(array);
   fetch("https://aro2s.github.io/RosterGen/data.json")
   .then(response => {
      return response.json();
@@ -27,11 +32,11 @@ document.getElementById("C1").innerHTML = data[array[8]].NAME,
 document.getElementById("C2").innerHTML = data[array[9]].NAME
 ))
 }
-const array = Array(10) // array size is 10
-				.fill()
-				.map(() => Math.floor(192 * Math.random())); // numbers from 0-50 (exclusive)
-
-console.log(array);
+// const array = Array(10) // array size is 10
+// 				.fill()
+// 				.map(() => Math.floor(192 * Math.random())); // numbers from 0-50 (exclusive)
+//
+// console.log(array);
 </script>
   <body>
     <button onclick='RosterData()'>Load Data</button>
