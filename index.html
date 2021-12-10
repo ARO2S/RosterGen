@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+<title> Roster Gen </title>
+<link href="stylesheet.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://github.com/ARO2S/RosterGen/blob/9e1b28d1be213982aeb5b4b152a646f840db0bc3/data.json"></script>
+<!-- <link href='javascript.js' type='text/javascript'> -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<script>
+function RosterData() {
+  // var mydata = JSON.parse(data);
+  // console.log(mydata);
+  fetch("https://aro2s.github.io/RosterGen/data.json")
+  .then(response => {
+     return response.json();
+  })
+  .then(data => (console.log(data),
+document.getElementById("PG1").innerHTML = data[array[0]].NAME,
+document.getElementById("PG2").innerHTML = data[array[1]].NAME,
+document.getElementById("SG1").innerHTML = data[array[2]].NAME,
+document.getElementById("SG2").innerHTML = data[array[3]].NAME,
+document.getElementById("SF1").innerHTML = data[array[4]].NAME,
+document.getElementById("SF2").innerHTML = data[array[5]].NAME,
+document.getElementById("PF1").innerHTML = data[array[6]].NAME,
+document.getElementById("PF2").innerHTML = data[array[7]].NAME,
+document.getElementById("C1").innerHTML = data[array[8]].NAME,
+document.getElementById("C2").innerHTML = data[array[9]].NAME
+))
+}
+const array = Array(10) // array size is 10
+				.fill()
+				.map(() => Math.floor(192 * Math.random())); // numbers from 0-50 (exclusive)
+
+console.log(array);
+</script>
+  <body>
+    <button onclick='RosterData()'>Load Data</button>
+    <h2> Team 1 <h2>
+    <h4>PG: <span id='PG1'> </h4>
+    <h4>SG: <span id='SG1'> </h4>
+    <h4>SF: <span id='SF1'> </h4>
+    <h4>PF: <span id='PF1'> </h4>
+    <h4>C: <span id='C1'> </h4>
+
+    <h2> Team 2 <h2>
+    <h4>PG: <span id='PG2'> </h4>
+    <h4>SG: <span id='SG2'> </h4>
+    <h4>SF: <span id='SF2'> </h4>
+    <h4>PF: <span id='PF2'> </h4>
+    <h4>C: <span id='C2'> </h4>
+
+</body>
