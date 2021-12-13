@@ -61,7 +61,7 @@
   },
   {
     "NAME": "Russell Westbrook",
-    "TEAM": "Was",
+    "TEAM": "Lak",
     "POS": "PG",
     "AS": "Y"
   },
@@ -103,7 +103,7 @@
   },
   {
     "NAME": "Devonte' Graham",
-    "TEAM": "Cha",
+    "TEAM": "Pel",
     "POS": "PG",
     "AS": "N"
   },
@@ -115,13 +115,13 @@
   },
   {
     "NAME": "Lonzo Ball",
-    "TEAM": "Nor",
+    "TEAM": "Chi",
     "POS": "PG",
     "AS": "N"
   },
   {
     "NAME": "Dennis Schroder",
-    "TEAM": "Lal",
+    "TEAM": "Bos",
     "POS": "PG",
     "AS": "N"
   },
@@ -145,7 +145,7 @@
   },
   {
     "NAME": "Kemba Walker",
-    "TEAM": "Bos",
+    "TEAM": "NYK",
     "POS": "PG",
     "AS": "Y"
   },
@@ -169,7 +169,7 @@
   },
   {
     "NAME": "Kendrick Nunn",
-    "TEAM": "Mia",
+    "TEAM": "Lak",
     "POS": "PG",
     "AS": "N"
   },
@@ -223,7 +223,7 @@
   },
   {
     "NAME": "Ricky Rubio",
-    "TEAM": "Min",
+    "TEAM": "Cav",
     "POS": "PG",
     "AS": "N"
   },
@@ -235,13 +235,13 @@
   },
   {
     "NAME": "Patrick Beverley",
-    "TEAM": "Lac",
+    "TEAM": "Min",
     "POS": "PG",
     "AS": "N"
   },
   {
     "NAME": "Lou Williams",
-    "TEAM": "Lac",
+    "TEAM": "ATL",
     "POS": "PG",
     "AS": "N"
   },
@@ -295,7 +295,7 @@
   },
   {
     "NAME": "DeMar DeRozan",
-    "TEAM": "San",
+    "TEAM": "Chi",
     "POS": "SG",
     "AS": "N"
   },
@@ -313,13 +313,13 @@
   },
   {
     "NAME": "Victor Oladipo",
-    "TEAM": "Ind",
+    "TEAM": "Mia",
     "POS": "SG",
     "AS": "N"
   },
   {
     "NAME": "Malik Beasley",
-    "TEAM": "Min",
+    "TEAM": "Lak",
     "POS": "SG",
     "AS": "N"
   },
@@ -475,7 +475,7 @@
   },
   {
     "NAME": "Kentavious Caldwell-Pope",
-    "TEAM": "Lal",
+    "TEAM": "Was",
     "POS": "SG",
     "AS": "N"
   },
@@ -487,7 +487,7 @@
   },
   {
     "NAME": "Patty Mills",
-    "TEAM": "San",
+    "TEAM": "Bro",
     "POS": "SG",
     "AS": "N"
   },
@@ -517,7 +517,7 @@
   },
   {
     "NAME": "Grayson Allen",
-    "TEAM": "Mem",
+    "TEAM": "MIL",
     "POS": "SG",
     "AS": "N"
   },
@@ -553,13 +553,13 @@
   },
   {
     "NAME": "Malik Monk",
-    "TEAM": "Cha",
+    "TEAM": "Lak",
     "POS": "SG",
     "AS": "N"
   },
   {
     "NAME": "Spencer Dinwiddie",
-    "TEAM": "Bro",
+    "TEAM": "Was",
     "POS": "SG",
     "AS": "N"
   },
@@ -571,7 +571,7 @@
   },
   {
     "NAME": "Alex Caruso",
-    "TEAM": "Lal",
+    "TEAM": "Chi",
     "POS": "SG",
     "AS": "N"
   },
@@ -636,7 +636,7 @@
     "AS": "N"
   },
   {
-    "NAME": "Isaac Okoro",
+    "NAME": "Evan Mobley",
     "TEAM": "Cle",
     "POS": "SF",
     "AS": "N"
@@ -673,7 +673,7 @@
   },
   {
     "NAME": "Kelly Oubre Jr.",
-    "TEAM": "Gol",
+    "TEAM": "Cha",
     "POS": "SF",
     "AS": "N"
   },
@@ -745,13 +745,7 @@
   },
   {
     "NAME": "Carmelo Anthony",
-    "TEAM": "Por",
-    "POS": "SF",
-    "AS": "N"
-  },
-  {
-    "NAME": "Cedi Osman",
-    "TEAM": "Cle",
+    "TEAM": "Lal",
     "POS": "SF",
     "AS": "N"
   },
@@ -865,7 +859,7 @@
   },
   {
     "NAME": "Blake Griffin",
-    "TEAM": "Det",
+    "TEAM": "Bro",
     "POS": "PF",
     "AS": "N"
   },
@@ -877,13 +871,13 @@
   },
   {
     "NAME": "Lauri Markkanen",
-    "TEAM": "Chi",
+    "TEAM": "Cav",
     "POS": "PF",
     "AS": "N"
   },
   {
     "NAME": "P.J. Tucker",
-    "TEAM": "Hou",
+    "TEAM": "MILK",
     "POS": "PF",
     "AS": "N"
   },
@@ -937,7 +931,7 @@
   },
   {
     "NAME": "Derrick Jones Jr.",
-    "TEAM": "Por",
+    "TEAM": "MIA",
     "POS": "PF",
     "AS": "N"
   },
@@ -955,7 +949,7 @@
   },
   {
     "NAME": "LaMarcus Aldridge",
-    "TEAM": "San",
+    "TEAM": "Bro",
     "POS": "PF",
     "AS": "N"
   },
@@ -973,7 +967,7 @@
   },
   {
     "NAME": "Montrezl Harrell",
-    "TEAM": "Lal",
+    "TEAM": "Was",
     "POS": "PF",
     "AS": "N"
   },
@@ -985,7 +979,7 @@
   },
   {
     "NAME": "Daniel Theis",
-    "TEAM": "Bos",
+    "TEAM": "Chi",
     "POS": "PF",
     "AS": "N"
   },
@@ -1015,7 +1009,7 @@
   },
   {
     "NAME": "Nikola Vucevic",
-    "TEAM": "Orl",
+    "TEAM": "Chi",
     "POS": "C",
     "AS": "Y"
   },
@@ -1087,7 +1081,7 @@
   },
   {
     "NAME": "Al Horford",
-    "TEAM": "Okc",
+    "TEAM": "Bos",
     "POS": "C",
     "AS": "N"
   },
@@ -1105,13 +1099,13 @@
   },
   {
     "NAME": "Steven Adams",
-    "TEAM": "Nor",
+    "TEAM": "Mem",
     "POS": "C",
     "AS": "N"
   },
   {
     "NAME": "Kelly Olynyk",
-    "TEAM": "Mia",
+    "TEAM": "OKC",
     "POS": "C",
     "AS": "N"
   },
@@ -1129,7 +1123,7 @@
   },
   {
     "NAME": "Enes Kanter",
-    "TEAM": "Por",
+    "TEAM": "Bos",
     "POS": "C",
     "AS": "N"
   },
@@ -1165,7 +1159,7 @@
   },
   {
     "NAME": "DeAndre Jordan",
-    "TEAM": "Bro",
+    "TEAM": "Lal",
     "POS": "C",
     "AS": "N"
   },
