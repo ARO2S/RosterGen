@@ -47,16 +47,16 @@ document.getElementById("C2").innerHTML = data[cArray[1]].NAME + ' - ' +  data[c
 function ATRosterData() {
   const gArray = Array(4) // array size is 10
   				.fill()
-  				.map(() => Math.floor(106 * Math.random()));
+  				.map(() => Math.floor(73 * Math.random()));
   const sfArray = Array(2) // array size is 10
   				.fill()
   				.map(() => Math.floor(Math.random() * (107-74 + 1) + 74));
   const fcArray = Array(2) // array size is 10
           .fill()
-          .map(() => Math.floor(Math.random() * (168-108 + 1) + 108));
+          .map(() => Math.floor(Math.random() * (166-108 + 1) + 108));
   const cArray = Array(2) // array size is 10
           .fill()
-          .map(() => Math.floor(Math.random() * (167-133 + 1) + 133));
+          .map(() => Math.floor(Math.random() * (166-133 + 1) + 133));
 console.log(gArray,sfArray,fcArray,cArray);
   fetch("https://aro2s.github.io/RosterGen/ATtempData.json")
   .then(response => {
@@ -95,6 +95,8 @@ function compare(PG1,PG2,SG1,SG2,SF1,SF2,PF1,PF2,C1,C2) {
   }  else if (SF1 == SF2) {
     ATRosterData();
   } else if ((PF1 || C1) == (PF2 || C1)) {
+    ATRosterData();
+  } else if ((PG1 == SG1) || (PG2 == SG2)) {
     ATRosterData();
   }
 }
