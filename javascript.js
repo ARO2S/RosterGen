@@ -7,10 +7,10 @@ function RosterData() {
   				.map(() => Math.floor(Math.random() * (135-97 + 1) + 97));
   const fcArray = Array(2) // array size is 10
           .fill()
-          .map(() => Math.floor(Math.random() * (198-135 + 1) + 135));
+          .map(() => Math.floor(Math.random() * (196-135 + 1) + 135));
   const cArray = Array(2) // array size is 10
           .fill()
-          .map(() => Math.floor(Math.random() * (198-169 + 1) + 169));
+          .map(() => Math.floor(Math.random() * (196-169 + 1) + 169));
 console.log(gArray,sfArray,fcArray,cArray);
   const data1 = fetch("https://aro2s.github.io/RosterGen/tempData.json")
   .then(response => {
@@ -29,6 +29,7 @@ PF2 = data[fcArray[1]],
 C2 = data[cArray[1]],
 
 compare(PG1,PG2,SG1,SG2,SF1,SF2,PF1,PF2,C1,C2),
+AllStar(PG1,PG2,SG1,SG2,SF1,SF2,PF1,PF2,C1,C2),
 //Array for g, array for F, array for C
 // const PG1 = exam[gArray[0]];
 document.getElementById("PG1").innerHTML = data[gArray[0]].NAME + ' - ' + data[gArray[0]].TEAM,
@@ -75,6 +76,7 @@ console.log(gArray,sfArray,fcArray,cArray);
   C2 = data[cArray[1]],
 
   compare(PG1,PG2,SG1,SG2,SF1,SF2,PF1,PF2,C1,C2),
+  overall(PG1,PG2,SG1,SG2,SF1,SF2,PF1,PF2,C1,C2),
 //Array for g, array for F, array for C
 document.getElementById("PG1").innerHTML = data[gArray[0]].Player + ' - ' + data[gArray[0]].Team,
 document.getElementById("PG2").innerHTML = data[gArray[1]].Player + ' - ' + data[gArray[1]].Team,
@@ -98,5 +100,27 @@ function compare(PG1,PG2,SG1,SG2,SF1,SF2,PF1,PF2,C1,C2) {
     ATRosterData();
   } else if ((PG1 == SG1) || (PG2 == SG2)) {
     ATRosterData();
+  }
+}
+function overall(PG1,PG2,SG1,SG2,SF1,SF2,PF1,PF2,C1,C2) {
+  T1 = (PG1.Overall + SG1.Overall + SF1.Overall + PF1.Overall + C1.Overall) / 5
+  T2 = (PG2.Overall + SG2.Overall + SF2.Overall + PF2.Overall + C2.Overall) / 5
+  console.log(T1,T2);
+  if ( ( Math.abs(T1-T2) >= 1.5) ) {
+    console.log('reroll');
+    ATRosterData();
+  }
+  document.getElementById("T1").innerHTML = 'Overall: ' + T1;
+  document.getElementById("T2").innerHTML = 'Overall: ' + T2;
+}
+
+function AllStar(PG1,PG2,SG1,SG2,SF1,SF2,PF1,PF2,C1,C2) {
+  T1 = PG1.AS + SG1.AS + SF1.AS + PF1.AS + C1.AS
+  T2 = PG2.AS + SG2.AS + SF2.AS + PF2.AS + C2.AS
+  if (T1.includes('Y') && T2.includes('Y') ) {
+    document.getElementById("T1").innerHTML = '';
+    document.getElementById("T2").innerHTML = '';
+  } else {
+    RosterData();
   }
 }
